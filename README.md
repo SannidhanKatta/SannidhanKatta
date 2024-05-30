@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sannidhankatta&label=Profile%20views&color=0e75b6&style=flat" alt="sannidhankatta" /> </p>
 
-- 🌱 Present I’m Learning **Reactnative and Active Directory Enumeration**
+- 🌱 Present I’m Learning **Reactnative & Active Directory Enumeration**
   
 - ✨Looking to Evolve in Cybersecurity & Blockchain.
 
@@ -41,14 +41,14 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ksannidhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksannidhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sannidhan-katta-6646a1258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sannidhan-katta-6646a1258/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100070710427164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070710427164" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sannidhan_2424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sannidhan_2424/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sannidhan_2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sannidhan_2424" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sannidhan-katta-6646a1258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sannidhan-katta-6646a1258/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100070710427164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100070710427164" height="30" width="40" /></a>
+<a href="https://instagram.com/sannidhan_2424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sannidhan_2424/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sannidhan_2424" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sannidhan_2424" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sannidhan katta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sannidhan katta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sannidhan_2424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sannidhan_2424/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/sannidhankatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/sannidhankatta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sannidha6flc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sannidha6flc/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sannidhan_2424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sannidhan_2424/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sannidhankatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/sannidhankatta" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sannidha6flc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sannidha6flc/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
