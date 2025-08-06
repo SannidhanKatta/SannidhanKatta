@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Sannidhan Katta</h1>
 <h3 align="center">A Passionate Problem Solver from India</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47x6x93qmfb1b4hs2u71fcb38djqkd3kklc3xweuam&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sannidhankatta&label=Profile%20views&color=0e75b6&style=flat" alt="sannidhankatta" /> </p>
 
