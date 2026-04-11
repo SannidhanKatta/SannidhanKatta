@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **sannidhankatta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vaSPnVnYyzfG8HNAhJC10sH2zR3WdufJ/view?usp=drive_link](https://drive.google.com/file/d/1vaSPnVnYyzfG8HNAhJC10sH2zR3WdufJ/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vaSPnVnYyzfG8HNAhJC10sH2zR3WdufJ/view?usp=drive_link](https://drive.google.com/file/d/1vaSPnVnYyzfG8HNAhJC10sH2zR3WdufJ/view?usp=drive_link](https://drive.google.com/file/d/1r5WU8trfQ3icoZIaFnHGb6FyKLfhy_6O/view?usp=sharing)
 
 - ⚡ Fun fact **I am Loved by bugs🐛**
 
